@@ -1,0 +1,21 @@
+.search{
+    width: 100%;
+    .search__form{
+        width: 100%;
+        text-align: center;
+        .search__input{
+            width: 60%;
+            margin: 0 auto;
+            padding: 1rem 1.5rem;
+            font-family: 'Roboto', sans-serif;
+            border-radius: 10px;
+            font-size: 18px;
+            font-weight: bold;
+        }
+        .btn{
+            position: relative;
+            right: 100px;
+            padding: .7rem 0.5rem;
+        }
+    }
+}
